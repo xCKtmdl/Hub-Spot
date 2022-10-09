@@ -1,0 +1,168 @@
+{
+    "partners": [
+	{
+            "firstName": "Deandra",
+            "lastName": "Linak",
+            "email": "dlinak@hubspotpartners.com",
+            "country": "Ireland",
+            "availableDates": ["2017-06-23", "2017-06-24", "2017-06-27", "2017-06-29", "2017-07-01", "2017-07-04", "2017-07-06", "2017-07-07", "2017-07-08", "2017-07-11"]
+        }, {
+            "firstName": "Truman",
+            "lastName": "Vigliotti",
+            "email": "tvigliotti@hubspotpartners.com",
+            "country": "Ireland",
+            "availableDates": ["2017-06-24", "2017-06-27", "2017-07-05", "2017-07-06", "2017-07-07", "2017-07-08", "2017-07-09", "2017-07-11", "2017-07-12"]
+        }, {
+            "firstName": "Apryl",
+            "lastName": "Billingham",
+            "email": "abillingham@hubspotpartners.com",
+            "country": "Ireland",
+            "availableDates": ["2017-06-23", "2017-06-27", "2017-07-01", "2017-07-02", "2017-07-03", "2017-07-06", "2017-07-07"]
+        }, {
+            "firstName": "Ailene",
+            "lastName": "Britto",
+            "email": "abritto@hubspotpartners.com",
+            "country": "Ireland",
+            "availableDates": ["2017-06-23", "2017-07-06", "2017-07-07", "2017-07-09", "2017-07-11"]
+        }, {
+            "firstName": "Numbers",
+            "lastName": "Rabassa",
+            "email": "nrabassa@hubspotpartners.com",
+            "country": "Ireland",
+            "availableDates": ["2017-06-24", "2017-06-27", "2017-07-01", "2017-07-02", "2017-07-05", "2017-07-06", "2017-07-07", "2017-07-08", "2017-07-11", "2017-07-12"]
+        }, {
+            "firstName": "Darrell",
+            "lastName": "Bennetts",
+            "email": "dbennetts@hubspotpartners.com",
+            "country": "Ireland",
+            "availableDates": ["2017-06-24", "2017-06-29", "2017-06-30", "2017-07-06", "2017-07-07", "2017-07-11"]
+        }, {
+            "firstName": "Kia",
+            "lastName": "Boerma",
+            "email": "kboerma@hubspotpartners.com",
+            "country": "Ireland",
+            "availableDates": ["2017-07-01", "2017-07-02", "2017-07-05", "2017-07-06", "2017-07-07", "2017-07-11", "2017-07-15"]
+        }, {
+            "firstName": "Loyd",
+            "lastName": "Farella",
+            "email": "lfarella@hubspotpartners.com",
+            "country": "Ireland",
+            "availableDates": ["2017-06-24", "2017-06-28", "2017-07-01", "2017-07-02", "2017-07-06", "2017-07-07"]
+        }, {
+            "firstName": "Jayson",
+            "lastName": "Sackal",
+            "email": "jsackal@hubspotpartners.com",
+            "country": "Ireland",
+            "availableDates": ["2017-06-24", "2017-07-03", "2017-07-04", "2017-07-05", "2017-07-06", "2017-07-07", "2017-07-08"]
+        }, {
+            "firstName": "Dean",
+            "lastName": "Kravetz",
+            "email": "dkravetz@hubspotpartners.com",
+            "country": "Ireland",
+            "availableDates": ["2017-06-27", "2017-06-30", "2017-07-05", "2017-07-06", "2017-07-07", "2017-07-09"]
+        }, {
+            "firstName": "Buena",
+            "lastName": "Curia",
+            "email": "bcuria@hubspotpartners.com",
+            "country": "Ireland",
+            "availableDates": ["2017-06-24", "2017-06-27", "2017-06-30", "2017-07-05", "2017-07-06", "2017-07-07"]
+        }, {
+            "firstName": "Luise",
+            "lastName": "Calvan",
+            "email": "lcalvan@hubspotpartners.com",
+            "country": "Ireland",
+            "availableDates": ["2017-06-27", "2017-07-05", "2017-07-06", "2017-07-07", "2017-07-09"]
+        }, {
+            "firstName": "Kermit",
+            "lastName": "Rusteika",
+            "email": "krusteika@hubspotpartners.com",
+            "country": "Ireland",
+            "availableDates": ["2017-06-27", "2017-07-01", "2017-07-02", "2017-07-05", "2017-07-06", "2017-07-07", "2017-07-08", "2017-07-12", "2017-07-14", "2017-07-16", "2017-07-17"]
+        }, {
+            "firstName": "Erik",
+            "lastName": "Maria",
+            "email": "emaria@hubspotpartners.com",
+            "country": "Ireland",
+            "availableDates": ["2017-06-27", "2017-07-01", "2017-07-06", "2017-07-07"]
+        }, {
+            "firstName": "Creola",
+            "lastName": "Mendenhall",
+            "email": "cmendenhall@hubspotpartners.com",
+            "country": "Ireland",
+            "availableDates": ["2017-06-24", "2017-06-27", "2017-06-29", "2017-06-30", "2017-07-02", "2017-07-06", "2017-07-07", "2017-07-08"]
+        }, {
+            "firstName": "Valeria",
+            "lastName": "Dobies",
+            "email": "vdobies@hubspotpartners.com",
+            "country": "Ireland",
+            "availableDates": ["2017-06-24", "2017-07-01", "2017-07-06", "2017-07-07"]
+        }, {
+            "firstName": "Charmaine",
+            "lastName": "Korona",
+            "email": "ckorona@hubspotpartners.com",
+            "country": "Ireland",
+            "availableDates": ["2017-06-24", "2017-06-30", "2017-07-01", "2017-07-04", "2017-07-05", "2017-07-06", "2017-07-07", "2017-07-08", "2017-07-11", "2017-07-16"]
+        }, {
+            "firstName": "Cathi",
+            "lastName": "Mosbey",
+            "email": "cmosbey@hubspotpartners.com",
+            "country": "Ireland",
+            "availableDates": ["2017-06-24", "2017-06-28", "2017-07-02", "2017-07-05", "2017-07-08", "2017-07-12"]
+        }, {
+            "firstName": "Justina",
+            "lastName": "Ohern",
+            "email": "johern@hubspotpartners.com",
+            "country": "Ireland",
+            "availableDates": ["2017-06-25", "2017-06-27", "2017-07-01", "2017-07-02", "2017-07-08", "2017-07-11", "2017-07-12", "2017-07-16"]
+        }, {
+            "firstName": "Joe",
+            "lastName": "Calnan",
+            "email": "jcalnan@hubspotpartners.com",
+            "country": "Ireland",
+            "availableDates": ["2017-06-27", "2017-07-02", "2017-07-08", "2017-07-11"]
+        }, {
+            "firstName": "Dell",
+            "lastName": "Civitello",
+            "email": "dcivitello@hubspotpartners.com",
+            "country": "Ireland",
+            "availableDates": ["2017-07-02"]
+        }, {
+            "firstName": "Rosalee",
+            "lastName": "Veigel",
+            "email": "rveigel@hubspotpartners.com",
+            "country": "Ireland",
+            "availableDates": ["2017-06-24", "2017-06-27", "2017-06-29", "2017-07-02", "2017-07-03", "2017-07-08", "2017-07-11", "2017-07-12"]
+        }, {
+            "firstName": "Lisbeth",
+            "lastName": "Petriccione",
+            "email": "lpetriccione@hubspotpartners.com",
+            "country": "Ireland",
+            "availableDates": ["2017-06-27", "2017-06-30", "2017-07-02", "2017-07-03", "2017-07-08", "2017-07-11"]
+        }, {
+            "firstName": "Milissa",
+            "lastName": "Cape",
+            "email": "mcape@hubspotpartners.com",
+            "country": "Ireland",
+            "availableDates": ["2017-06-28", "2017-06-29", "2017-07-02", "2017-07-03", "2017-07-05"]
+        }, {
+            "firstName": "Jess",
+            "lastName": "Custodio",
+            "email": "jcustodio@hubspotpartners.com",
+            "country": "Ireland",
+            "availableDates": ["2017-06-24", "2017-06-29", "2017-07-04", "2017-07-05", "2017-07-08"]
+        }, {
+            "firstName": "Thersa",
+            "lastName": "Schwantd",
+            "email": "tschwantd@hubspotpartners.com",
+            "country": "Ireland",
+            "availableDates": ["2017-06-28", "2017-06-30", "2017-07-04", "2017-07-12"]
+        }, {
+            "firstName": "Lona",
+            "lastName": "Wheaton",
+            "email": "lwheaton@hubspotpartners.com",
+            "country": "Ireland",
+            "availableDates": ["2017-06-24", "2017-06-27", "2017-06-28", "2017-06-30", "2017-07-01", "2017-07-04", "2017-07-08", "2017-07-11", "2017-07-12"]
+        }
+	
+	]
+}
