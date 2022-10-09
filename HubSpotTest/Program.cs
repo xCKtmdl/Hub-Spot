@@ -3,7 +3,6 @@ using RestSharp;
 
 
 /*
- * Aaron Gabriel
  * 
  * Program to do interesting conference scheduler test for HubSpot
  * 
