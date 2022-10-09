@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/HubSpotTest/obj/Debug/net6.0
+/HubSpotTest/obj
+/.vs/HubSpotTest/v17/TestStore/0
